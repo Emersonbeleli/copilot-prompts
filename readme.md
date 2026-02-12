@@ -1,110 +1,109 @@
 <!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+<h1>Formação Desenvolvedor de Jogos - Roadmap 180 dias</h1>
 
-</p>
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
 
-<br/>
-<br/>
+                                                   Sobre o Projeto
 
-## 💻 Sobre o Projeto
+Este projeto foi pensado para quem deseja fazer transição de carreira e se tornar Desenvolvedor de Jogos.
+Ao longo de 180 dias, você vai percorrer uma jornada prática e progressiva, começando pelos fundamentos de programação e avançando até a publicação de jogos completos em plataformas abertas.
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+O conteúdo foi desenhado para equilibrar teoria e prática, com foco em criar produtos reais e construir um portfólio sólido.
+Você aprenderá a programar em C#, dominar a Unity, explorar jogos 2D e 3D, aplicar conceitos de Inteligência Artificial em NPCs, entender princípios de Game Design, além de boas práticas de código e versionamento com Git/GitHub.
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Ao final, você terá desenvolvido e publicado seu próprio jogo, documentado e disponível para recrutadores e comunidades de desenvolvedores.
+Mais do que um curso, este roadmap é um guia de carreira, pensado para quem busca constância e evolução prática, mesmo com poucas horas semanais de estudo.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+                                 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-- _Exemplo_:
+Antes de iniciar este conteúdo, é importante que você tenha algumas bases para aproveitar melhor o aprendizado. Não se preocupe: todos os pré-requisitos são acessíveis para quem está começando do zero.
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+Lógica de programação | Básico
 
-- [Outros pré-requisitos, se aplicável]
+Noções de inglês técnico | Básico
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Familiaridade com computadores e instalação de softwares | Básico
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
+Curiosidade em tecnologia
 
-  - [Subhabilidades relacionadas, se aplicável]
+Interesse em jogos digitais
 
-- _Exemplo_:
-  - Java
-    - Api Rest
 
-## 🎯 Objetivos e Resultados Esperados
+            
+                                                 Requisitos Desejáveis
+ 
+  Curiosidade em Tecnologia  
+Vontade de explorar novas ferramentas e aprender continuamente.
 
+  Interesse em Jogos Digitais  
+Paixão por criar experiências interativas e entender como funcionam por trás das telas.
+
+                                                Observação Importante
+ 
+Não é necessário ter experiência prévia em programação ou desenvolvimento de jogos. O roadmap foi pensado para quem está fazendo transição de carreira e começando do zero, com explicações didáticas e progressivas.
+
+
+
+                             Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+   
+Programação em C# aplicada a jogos
+
+Scripts de movimento, colisão e interação
+
+Uso de Unity para jogos 2D e 3D
+
+Prefabs, hierarquia de objetos, física
+
+Inteligência Artificial aplicada a NPCs
+
+Pathfinding, perseguição, comportamento básico
+
+Game Design
+
+Balanceamento, fases, experiência do jogador
+
+Boas práticas de código e versionamento
+
+Git/GitHub, documentação, otimização
+
+                                           Objetivos e Resultados Esperados
+                                           
 Após a conclusão do curso/projeto, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Criar jogos 2D e 3D simples utilizando Unity e C#
+
+Implementar mecânicas de jogabilidade, pontuação e fases
+
+Aplicar conceitos básicos de IA em jogos (NPCs e inimigos)
+
+Documentar e publicar jogos em plataformas abertas (GitHub, Itch.io)
+
+Construir um portfólio sólido para entrevistas e transição de carreira
+
+                                           Roadmap de 180 dias (Resumo)
+
+Mês 1: Fundamentos de programação e Unity
+
+Mês 2: Jogos 2D completos
+
+Mês 3: Introdução ao 3D
+
+Mês 4: Inteligência Artificial e Game Design
+
+Mês 5: Infraestrutura e boas práticas
+
+Mês 6: Projeto final, portfólio e publicação
 
 <!--START_SECTION:footer-->
-
 <br />
 <br />
 
 <p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
+<a href="https://www.dio.me/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
+</a>
 </p>
+<!--END_SECTION:footer-->
